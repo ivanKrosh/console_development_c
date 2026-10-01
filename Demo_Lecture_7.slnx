@@ -1,0 +1,28 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Сценарії/">
+    <File Path="Сценарії/demo01_hook.cmd" />
+    <File Path="Сценарії/demo02_formats.cmd" />
+    <File Path="Сценарії/demo03_bytes.cmd" />
+    <File Path="Сценарії/demo08_line.cmd" />
+    <File Path="Сценарії/demo04_input.cmd" />
+    <File Path="Сценарії/demo05_reliable.cmd" />
+    <File Path="Сценарії/demo01_answer.cmd" />
+    <File Path="Сценарії/demo06_streams.cmd" />
+    <File Path="Сценарії/demo07_codepage.cmd" />
+    <File Path="Сценарії/demo09_escape.cmd" />
+    <File Path="Сценарії/demo08_events.cmd" />
+  </Folder>
+  <Project Path="Demo1_lost/Demo1_lost.vcxproj" Id="be39e2ec-cf3d-497d-8909-393f7271614f" />
+  <Project Path="Demo2_printf/Demo2_printf.vcxproj" Id="bc8f7628-946c-42ed-951c-e0ef10b545ee" />
+  <Project Path="Demo3_textmode/Demo3_textmode.vcxproj" Id="d67782ae-4e02-4c10-9c7f-4f6063d35d23" />
+  <Project Path="Demo4_scanf/Demo4_scanf.vcxproj" Id="3a792905-cab7-45d0-bc61-e4be290c44f2" />
+  <Project Path="Demo5_fgets/Demo5_fgets.vcxproj" Id="8adaf055-d9d3-4e01-8d18-59a666be2794" />
+  <Project Path="Demo6_order/Demo6_order.vcxproj" Id="f08ac514-7ce4-484a-b220-e7aff1e9cae7" />
+  <Project Path="Demo7_cyr/Demo7_cyr.vcxproj" Id="7644e85d-924a-4df5-9c83-b68ab668646a" />
+  <Project Path="Demo8_keys/Demo8_keys.vcxproj" Id="be2b6074-ef41-48f5-8916-c0959043a5d1" />
+  <Project Path="Demo9_color/Demo9_color.vcxproj" Id="61db9042-b991-4270-a1af-0f74885e35c7" />
+</Solution>
